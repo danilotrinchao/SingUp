@@ -1,0 +1,16 @@
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Infra.Data\bin\Debug\net6.0\RegisterApi.Infra.Data.deps.json
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Infra.Data\bin\Debug\net6.0\RegisterApi.Infra.Data.dll
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Infra.Data\bin\Debug\net6.0\RegisterApi.Infra.Data.pdb
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Infra.Data\bin\Debug\net6.0\RegisterApi.Core.dll
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Infra.Data\bin\Debug\net6.0\RegisterApi.Core.pdb
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Infra.Data\obj\Debug\net6.0\RegisterApi.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Infra.Data\obj\Debug\net6.0\RegisterApi.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Infra.Data\obj\Debug\net6.0\RegisterApi.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Infra.Data\obj\Debug\net6.0\RegisterApi.Infra.Data.AssemblyInfo.cs
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Infra.Data\obj\Debug\net6.0\RegisterApi.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Infra.Data\obj\Debug\net6.0\RegisterApi.Infra.Data.sourcelink.json
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Infra.Data\obj\Debug\net6.0\Register.1ED25B71.Up2Date
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Infra.Data\obj\Debug\net6.0\RegisterApi.Infra.Data.dll
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Infra.Data\obj\Debug\net6.0\refint\RegisterApi.Infra.Data.dll
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Infra.Data\obj\Debug\net6.0\RegisterApi.Infra.Data.pdb
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Infra.Data\obj\Debug\net6.0\ref\RegisterApi.Infra.Data.dll
