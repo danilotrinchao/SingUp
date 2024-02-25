@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gT+skUs8Vr6jjJIkOOZl7hnqOTEpPYFxz131eQ9TgdtkiSbLzy57tVz7Rq23/RaVXYfPSmWDusfNlwvZVmPVdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\RegisterApi\\RegisterApi.Core\\RegisterApi.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danilo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

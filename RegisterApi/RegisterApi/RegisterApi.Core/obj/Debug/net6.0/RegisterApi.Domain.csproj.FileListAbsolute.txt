@@ -1,0 +1,12 @@
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Domain\bin\Debug\net6.0\RegisterApi.Domain.deps.json
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Domain\bin\Debug\net6.0\RegisterApi.Domain.dll
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Domain\bin\Debug\net6.0\RegisterApi.Domain.pdb
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Domain\obj\Debug\net6.0\RegisterApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Domain\obj\Debug\net6.0\RegisterApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Domain\obj\Debug\net6.0\RegisterApi.Domain.AssemblyInfo.cs
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Domain\obj\Debug\net6.0\RegisterApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Domain\obj\Debug\net6.0\RegisterApi.Domain.sourcelink.json
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Domain\obj\Debug\net6.0\RegisterApi.Domain.dll
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Domain\obj\Debug\net6.0\refint\RegisterApi.Domain.dll
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Domain\obj\Debug\net6.0\RegisterApi.Domain.pdb
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\RegisterApi\RegisterApi.Domain\obj\Debug\net6.0\ref\RegisterApi.Domain.dll
