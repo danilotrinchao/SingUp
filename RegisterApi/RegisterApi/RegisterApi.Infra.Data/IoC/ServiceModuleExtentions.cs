@@ -12,5 +12,15 @@ namespace RegisterApi.Infrastructure.IoC
             serviceCollection.AddTransient<IUsuarioRepository, UsuarioRepository>();
 
         }
+
+        public static void ConfigureServiceTwo(this IServiceCollection serviceCollection)
+        {
+            serviceCollection.AddHttpClient("ServiceTwoClient", client =>
+            {
+                client.BaseAddress = new Uri("https://localhost:7240/api");
+            
+            });
+
+        }
     }
 }

@@ -13,9 +13,11 @@ namespace RegisterApi.Core.Service
     public class UsuarioService : IUsuarioService
     {
         private readonly IUnitOfWork _uow;
-        public UsuarioService(IUnitOfWork uow)
+        private readonly IServiceTwoIntegrationService _serviceTwoIntegrationService;
+        public UsuarioService(IUnitOfWork uow, IServiceTwoIntegrationService serviceTwoIntegrationService)
         {
             _uow = uow;       
+            _serviceTwoIntegrationService = serviceTwoIntegrationService;
         }
         public async Task<UsuarioOutput> CadastrarUsuario(UsuarioInput usuarioInput)
         {
@@ -32,9 +34,19 @@ namespace RegisterApi.Core.Service
                 {
                     errors.Add($"Falha ao registrar o usuário{usuario.Nome}");
                 }
+                else
+                {
+                    await _serviceTwoIntegrationService.IntegrateWithServiceTwo(usuarioInput);
+                }
             }
 
             return new UsuarioOutput(!errors.Any(), errors);
+        }
+
+        public async Task<Usuario> GetByUserId(int userId)
+        {
+            var usuario = await _uow.UsuarioRepository.GetByIdAsync(userId);
+            return usuario;
         }
     }
 }

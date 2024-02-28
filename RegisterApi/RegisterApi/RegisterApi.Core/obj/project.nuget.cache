@@ -1,10 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "gT+skUs8Vr6jjJIkOOZl7hnqOTEpPYFxz131eQ9TgdtkiSbLzy57tVz7Rq23/RaVXYfPSmWDusfNlwvZVmPVdQ==",
+  "dgSpecHash": "79BcniwdA0w4p6pjj+Zato9Nrgg8S9DLKhu8EAxwGYS601zN4y5HYUWosxj8NyVBIS1xTQgx3se3mbrICLdmZg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\RegisterApi\\RegisterApi.Core\\RegisterApi.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Danilo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "C:\\Users\\Danilo\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Danilo\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Danilo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Danilo\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\Danilo\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Danilo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\Danilo\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

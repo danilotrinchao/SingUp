@@ -5,8 +5,8 @@ using RegisterApi.Core.Contracts;
 
 namespace RegisterApi.Web.Api.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
+    [Route("api")]
     public class UsuarioController : ControllerBase
     {
         protected readonly IUsuarioService _usuarioService;
@@ -15,11 +15,28 @@ namespace RegisterApi.Web.Api.Controllers
             _usuarioService = usuarioService;
         }
 
-        [HttpPost("[action]")]
-        public async Task<UsuarioOutput> RegistrarUsuario(UsuarioInput args)
+        [HttpPost]
+        public async Task<UsuarioOutput> RegistrarUsuario([FromBody]UsuarioInput args)
         {
             var result = await _usuarioService.CadastrarUsuario(args);
             return result;
+        }
+        [HttpGet("getUserId")]
+        public async Task<IActionResult> GetUserId(int userId)
+        {
+            try
+            {
+                // Lógica para lidar com o cadastro na ServiceTwo
+                var result = await _usuarioService.GetByUserId(userId);
+
+                return Ok(result);
+            }
+            catch (Exception ex)
+            {
+                // Trate exceção
+                // Registre a exceção para monitoramento e análise
+                return StatusCode(500, "Usuario não encontrado  em Register Api");
+            }
         }
     }
 }
