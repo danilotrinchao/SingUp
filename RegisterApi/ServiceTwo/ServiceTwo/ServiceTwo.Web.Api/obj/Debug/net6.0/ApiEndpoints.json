@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "ServiceTwo.Web.Api.Controllers.SignUpController",
+    "Method": "GetUserId",
+    "RelativePath": "api/getUserId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceTwo.Web.Api.Controllers.SignUpController",
+    "Method": "RegisterUser",
+    "RelativePath": "api/receiveData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioInput",
+        "Type": "ServiceTwo.Core.DTOs.UsuarioInput",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
