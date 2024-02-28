@@ -20,6 +20,7 @@ namespace RegisterApi.Application.DTOs
         public string Sobrenome { get; set; }
         public string Email { get; set; }
         public string Telefone { get; set; }
+        public DateTime? Dt_Alteracao { get; set; }
 
     }
 }

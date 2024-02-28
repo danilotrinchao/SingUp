@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RegisterApi.Infra.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+860a316d4fff352f192098792f61a62ffbf15f4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec684da059286076dde7a01acbe62fc665082e37")]
 [assembly: System.Reflection.AssemblyProductAttribute("RegisterApi.Infra.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RegisterApi.Infra.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

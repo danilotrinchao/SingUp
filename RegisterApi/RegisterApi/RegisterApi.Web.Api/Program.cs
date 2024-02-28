@@ -1,6 +1,9 @@
+using RegisterApi.Core.Contracts;
 using RegisterApi.Core.IoC;
-using RegisterApi.Infra.Data;
+using RegisterApi.Infra.Data.ExternalService;
+using RegisterApi.Infra.Data.Utils;
 using RegisterApi.Infrastructure.IoC;
+using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,13 +13,20 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
 builder.Services.RegisterCoreServices();
 builder.Services.RegisterInfrastructureServices();
+builder.Services.AddSingleton<IServiceTwoIntegrationService, ServiceTwoIntegrationService>();
+builder.Services.AddHttpClient();
+builder.Services.AddHttpClient("ServiceTwo",
+      c => c.BaseAddress = new Uri("https://localhost:7240/"));
+SerilogExtensions.AddSerilogApi(builder.Configuration);
+builder.Host.UseSerilog(Log.Logger);
+
 
 var app = builder.Build();
-
-// Configure the HTTP request pipeline.
+var serviceProvider = app.Services;
+app.UseMiddleware<RequestSerilLogMiddleware>();
+app.UseMiddleware<ErrorHandlingMiddleware>();
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

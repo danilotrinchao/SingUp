@@ -10,12 +10,12 @@ namespace RegisterApi.Domain.Entities
 {
     public class Usuario : EntityBase
     {
-        public Usuario(){}
-
+    
         public string Nome { get; set; }
         public string Sobrenome { get; set; }
         public string Email { get; set; }
         public string Telefone { get; set; }
+        public DateTime? Dt_Alteracao { get; set; }
 
     }
 }
