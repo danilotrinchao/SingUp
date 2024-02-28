@@ -1,0 +1,16 @@
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Infra\obj\Debug\net6.0\ServiceTwo.Infra.csproj.AssemblyReference.cache
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Infra\obj\Debug\net6.0\ServiceTwo.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Infra\obj\Debug\net6.0\ServiceTwo.Infra.AssemblyInfoInputs.cache
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Infra\obj\Debug\net6.0\ServiceTwo.Infra.AssemblyInfo.cs
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Infra\obj\Debug\net6.0\ServiceTwo.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Infra\obj\Debug\net6.0\ServiceTwo.Infra.sourcelink.json
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Infra\bin\Debug\net6.0\ServiceTwo.Infra.deps.json
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Infra\bin\Debug\net6.0\ServiceTwo.Infra.dll
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Infra\bin\Debug\net6.0\ServiceTwo.Infra.pdb
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Infra\bin\Debug\net6.0\ServiceTwo.Core.dll
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Infra\bin\Debug\net6.0\ServiceTwo.Core.pdb
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Infra\obj\Debug\net6.0\ServiceT.A22063C2.Up2Date
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Infra\obj\Debug\net6.0\ServiceTwo.Infra.dll
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Infra\obj\Debug\net6.0\refint\ServiceTwo.Infra.dll
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Infra\obj\Debug\net6.0\ServiceTwo.Infra.pdb
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Infra\obj\Debug\net6.0\ref\ServiceTwo.Infra.dll

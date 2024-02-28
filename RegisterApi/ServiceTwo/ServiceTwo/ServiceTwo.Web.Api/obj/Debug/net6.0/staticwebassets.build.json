@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TOe8JcRAElIg+QrzlEU1fGx6v+ptMEvOijw4WBnIj3I=",
+  "Source": "ServiceTwo.Web.Api",
+  "BasePath": "_content/ServiceTwo.Web.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

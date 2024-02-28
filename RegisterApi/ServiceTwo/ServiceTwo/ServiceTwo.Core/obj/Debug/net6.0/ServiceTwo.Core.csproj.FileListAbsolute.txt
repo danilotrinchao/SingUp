@@ -1,0 +1,13 @@
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Core\bin\Debug\net6.0\ServiceTwo.Core.deps.json
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Core\bin\Debug\net6.0\ServiceTwo.Core.dll
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Core\bin\Debug\net6.0\ServiceTwo.Core.pdb
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Core\obj\Debug\net6.0\ServiceTwo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Core\obj\Debug\net6.0\ServiceTwo.Core.AssemblyInfoInputs.cache
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Core\obj\Debug\net6.0\ServiceTwo.Core.AssemblyInfo.cs
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Core\obj\Debug\net6.0\ServiceTwo.Core.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Core\obj\Debug\net6.0\ServiceTwo.Core.sourcelink.json
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Core\obj\Debug\net6.0\ServiceTwo.Core.dll
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Core\obj\Debug\net6.0\refint\ServiceTwo.Core.dll
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Core\obj\Debug\net6.0\ServiceTwo.Core.pdb
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Core\obj\Debug\net6.0\ref\ServiceTwo.Core.dll
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ServiceTwo\ServiceTwo\ServiceTwo.Core\obj\Debug\net6.0\ServiceTwo.Core.csproj.AssemblyReference.cache
