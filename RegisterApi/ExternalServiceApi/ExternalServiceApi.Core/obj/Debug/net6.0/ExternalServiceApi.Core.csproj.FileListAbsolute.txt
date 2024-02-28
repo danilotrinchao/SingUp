@@ -1,0 +1,13 @@
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Core\bin\Debug\net6.0\ExternalServiceApi.Core.deps.json
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Core\bin\Debug\net6.0\ExternalServiceApi.Core.dll
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Core\bin\Debug\net6.0\ExternalServiceApi.Core.pdb
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Core\obj\Debug\net6.0\ExternalServiceApi.Core.csproj.AssemblyReference.cache
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Core\obj\Debug\net6.0\ExternalServiceApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Core\obj\Debug\net6.0\ExternalServiceApi.Core.AssemblyInfoInputs.cache
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Core\obj\Debug\net6.0\ExternalServiceApi.Core.AssemblyInfo.cs
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Core\obj\Debug\net6.0\ExternalServiceApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Core\obj\Debug\net6.0\ExternalServiceApi.Core.sourcelink.json
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Core\obj\Debug\net6.0\ExternalServiceApi.Core.dll
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Core\obj\Debug\net6.0\refint\ExternalServiceApi.Core.dll
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Core\obj\Debug\net6.0\ExternalServiceApi.Core.pdb
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Core\obj\Debug\net6.0\ref\ExternalServiceApi.Core.dll

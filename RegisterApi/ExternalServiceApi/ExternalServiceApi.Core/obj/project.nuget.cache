@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a/Le2gJJ2hm6TDHQU2dai/QXM6EFvBRucwmWeIDGrPrbXKpmRIvJ8AjVRT4oPi6bY7hfkFEnICaswk0RW5sfbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Core\\ExternalServiceApi.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danilo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

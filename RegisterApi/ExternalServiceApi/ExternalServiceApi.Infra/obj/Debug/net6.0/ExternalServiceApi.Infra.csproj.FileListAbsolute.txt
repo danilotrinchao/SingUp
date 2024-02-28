@@ -1,0 +1,16 @@
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Infra\bin\Debug\net6.0\ExternalServiceApi.Infra.deps.json
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Infra\bin\Debug\net6.0\ExternalServiceApi.Infra.dll
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Infra\bin\Debug\net6.0\ExternalServiceApi.Infra.pdb
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Infra\bin\Debug\net6.0\ExternalServiceApi.Core.dll
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Infra\bin\Debug\net6.0\ExternalServiceApi.Core.pdb
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Infra\obj\Debug\net6.0\ExternalServiceApi.Infra.csproj.AssemblyReference.cache
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Infra\obj\Debug\net6.0\ExternalServiceApi.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Infra\obj\Debug\net6.0\ExternalServiceApi.Infra.AssemblyInfoInputs.cache
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Infra\obj\Debug\net6.0\ExternalServiceApi.Infra.AssemblyInfo.cs
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Infra\obj\Debug\net6.0\ExternalServiceApi.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Infra\obj\Debug\net6.0\ExternalServiceApi.Infra.sourcelink.json
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Infra\obj\Debug\net6.0\External.40697B75.Up2Date
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Infra\obj\Debug\net6.0\ExternalServiceApi.Infra.dll
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Infra\obj\Debug\net6.0\refint\ExternalServiceApi.Infra.dll
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Infra\obj\Debug\net6.0\ExternalServiceApi.Infra.pdb
+C:\Users\Danilo\OneDrive\Imagens\Documentos\Mentoria\DesafiosTecnicos\SignUp\RegisterApi\ExternalServiceApi\ExternalServiceApi.Infra\obj\Debug\net6.0\ref\ExternalServiceApi.Infra.dll
