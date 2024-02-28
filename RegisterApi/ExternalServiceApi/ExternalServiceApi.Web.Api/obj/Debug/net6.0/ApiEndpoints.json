@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "ExternalServiceApi.Web.Api.Controllers.RegisterController",
+    "Method": "GetAll",
+    "RelativePath": "getAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExternalServiceApi.Web.Api.Controllers.RegisterController",
+    "Method": "GetUserIdInRegisterApi",
+    "RelativePath": "getRegisterApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExternalServiceApi.Web.Api.Controllers.RegisterController",
+    "Method": "GetUserIdInServiceTwo",
+    "RelativePath": "getServiceTwo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExternalServiceApi.Web.Api.Controllers.RegisterController",
+    "Method": "GetUser",
+    "RelativePath": "getUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

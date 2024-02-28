@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA42BE7C-26D2-4782-969C-E41332B68D41}|ExternalServiceApi.Infra\\ExternalServiceApi.Infra.csproj|c:\\users\\danilo\\onedrive\\imagens\\documentos\\mentoria\\desafiostecnicos\\signup\\registerapi\\externalserviceapi\\externalserviceapi.infra\\utils\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA42BE7C-26D2-4782-969C-E41332B68D41}|ExternalServiceApi.Infra\\ExternalServiceApi.Infra.csproj|solutionrelative:externalserviceapi.infra\\utils\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA42BE7C-26D2-4782-969C-E41332B68D41}|ExternalServiceApi.Infra\\ExternalServiceApi.Infra.csproj|c:\\users\\danilo\\onedrive\\imagens\\documentos\\mentoria\\desafiostecnicos\\signup\\registerapi\\externalserviceapi\\externalserviceapi.infra\\utils\\requestserillogmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA42BE7C-26D2-4782-969C-E41332B68D41}|ExternalServiceApi.Infra\\ExternalServiceApi.Infra.csproj|solutionrelative:externalserviceapi.infra\\utils\\requestserillogmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E239F4-E3EC-4E42-BC2E-2B57DE7F44F1}|ExternalServiceApi.Web.Api\\ExternalServiceApi.Web.Api.csproj|c:\\users\\danilo\\onedrive\\imagens\\documentos\\mentoria\\desafiostecnicos\\signup\\registerapi\\externalserviceapi\\externalserviceapi.web.api\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E239F4-E3EC-4E42-BC2E-2B57DE7F44F1}|ExternalServiceApi.Web.Api\\ExternalServiceApi.Web.Api.csproj|solutionrelative:externalserviceapi.web.api\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA42BE7C-26D2-4782-969C-E41332B68D41}|ExternalServiceApi.Infra\\ExternalServiceApi.Infra.csproj|c:\\users\\danilo\\onedrive\\imagens\\documentos\\mentoria\\desafiostecnicos\\signup\\registerapi\\externalserviceapi\\externalserviceapi.infra\\externalservice\\registerapiintegrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA42BE7C-26D2-4782-969C-E41332B68D41}|ExternalServiceApi.Infra\\ExternalServiceApi.Infra.csproj|solutionrelative:externalserviceapi.infra\\externalservice\\registerapiintegrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA42BE7C-26D2-4782-969C-E41332B68D41}|ExternalServiceApi.Infra\\ExternalServiceApi.Infra.csproj|c:\\users\\danilo\\onedrive\\imagens\\documentos\\mentoria\\desafiostecnicos\\signup\\registerapi\\externalserviceapi\\externalserviceapi.infra\\externalservice\\servicetwointegrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA42BE7C-26D2-4782-969C-E41332B68D41}|ExternalServiceApi.Infra\\ExternalServiceApi.Infra.csproj|solutionrelative:externalserviceapi.infra\\externalservice\\servicetwointegrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E239F4-E3EC-4E42-BC2E-2B57DE7F44F1}|ExternalServiceApi.Web.Api\\ExternalServiceApi.Web.Api.csproj|c:\\users\\danilo\\onedrive\\imagens\\documentos\\mentoria\\desafiostecnicos\\signup\\registerapi\\externalserviceapi\\externalserviceapi.web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E239F4-E3EC-4E42-BC2E-2B57DE7F44F1}|ExternalServiceApi.Web.Api\\ExternalServiceApi.Web.Api.csproj|solutionrelative:externalserviceapi.web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B839F-EDBC-4D70-A3F9-D7754D377C08}|ExternalServiceApi.Core\\ExternalServiceApi.Core.csproj|c:\\users\\danilo\\onedrive\\imagens\\documentos\\mentoria\\desafiostecnicos\\signup\\registerapi\\externalserviceapi\\externalserviceapi.core\\contracts\\iservicetwointegrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3B839F-EDBC-4D70-A3F9-D7754D377C08}|ExternalServiceApi.Core\\ExternalServiceApi.Core.csproj|solutionrelative:externalserviceapi.core\\contracts\\iservicetwointegrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B839F-EDBC-4D70-A3F9-D7754D377C08}|ExternalServiceApi.Core\\ExternalServiceApi.Core.csproj|c:\\users\\danilo\\onedrive\\imagens\\documentos\\mentoria\\desafiostecnicos\\signup\\registerapi\\externalserviceapi\\externalserviceapi.core\\service\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3B839F-EDBC-4D70-A3F9-D7754D377C08}|ExternalServiceApi.Core\\ExternalServiceApi.Core.csproj|solutionrelative:externalserviceapi.core\\service\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA42BE7C-26D2-4782-969C-E41332B68D41}|ExternalServiceApi.Infra\\ExternalServiceApi.Infra.csproj|c:\\users\\danilo\\onedrive\\imagens\\documentos\\mentoria\\desafiostecnicos\\signup\\registerapi\\externalserviceapi\\externalserviceapi.infra\\externalserviceapi.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA42BE7C-26D2-4782-969C-E41332B68D41}|ExternalServiceApi.Infra\\ExternalServiceApi.Infra.csproj|solutionrelative:externalserviceapi.infra\\externalserviceapi.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B839F-EDBC-4D70-A3F9-D7754D377C08}|ExternalServiceApi.Core\\ExternalServiceApi.Core.csproj|c:\\users\\danilo\\onedrive\\imagens\\documentos\\mentoria\\desafiostecnicos\\signup\\registerapi\\externalserviceapi\\externalserviceapi.core\\entities\\usuariosparceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3B839F-EDBC-4D70-A3F9-D7754D377C08}|ExternalServiceApi.Core\\ExternalServiceApi.Core.csproj|solutionrelative:externalserviceapi.core\\entities\\usuariosparceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA42BE7C-26D2-4782-969C-E41332B68D41}|ExternalServiceApi.Infra\\ExternalServiceApi.Infra.csproj|c:\\users\\danilo\\onedrive\\imagens\\documentos\\mentoria\\desafiostecnicos\\signup\\registerapi\\externalserviceapi\\externalserviceapi.infra\\data\\userdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA42BE7C-26D2-4782-969C-E41332B68D41}|ExternalServiceApi.Infra\\ExternalServiceApi.Infra.csproj|solutionrelative:externalserviceapi.infra\\data\\userdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B839F-EDBC-4D70-A3F9-D7754D377C08}|ExternalServiceApi.Core\\ExternalServiceApi.Core.csproj|c:\\users\\danilo\\onedrive\\imagens\\documentos\\mentoria\\desafiostecnicos\\signup\\registerapi\\externalserviceapi\\externalserviceapi.core\\contracts\\iregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3B839F-EDBC-4D70-A3F9-D7754D377C08}|ExternalServiceApi.Core\\ExternalServiceApi.Core.csproj|solutionrelative:externalserviceapi.core\\contracts\\iregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B839F-EDBC-4D70-A3F9-D7754D377C08}|ExternalServiceApi.Core\\ExternalServiceApi.Core.csproj|c:\\users\\danilo\\onedrive\\imagens\\documentos\\mentoria\\desafiostecnicos\\signup\\registerapi\\externalserviceapi\\externalserviceapi.core\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3B839F-EDBC-4D70-A3F9-D7754D377C08}|ExternalServiceApi.Core\\ExternalServiceApi.Core.csproj|solutionrelative:externalserviceapi.core\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Infra\\Utils\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "ExternalServiceApi.Infra\\Utils\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Infra\\Utils\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "ExternalServiceApi.Infra\\Utils\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowDEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:16:10.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestSerilLogMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Infra\\Utils\\RequestSerilLogMiddleware.cs",
+              "RelativeDocumentMoniker": "ExternalServiceApi.Infra\\Utils\\RequestSerilLogMiddleware.cs",
+              "ToolTip": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Infra\\Utils\\RequestSerilLogMiddleware.cs",
+              "RelativeToolTip": "ExternalServiceApi.Infra\\Utils\\RequestSerilLogMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:15:26.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterApiIntegrationService.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Infra\\ExternalService\\RegisterApiIntegrationService.cs",
+              "RelativeDocumentMoniker": "ExternalServiceApi.Infra\\ExternalService\\RegisterApiIntegrationService.cs",
+              "ToolTip": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Infra\\ExternalService\\RegisterApiIntegrationService.cs",
+              "RelativeToolTip": "ExternalServiceApi.Infra\\ExternalService\\RegisterApiIntegrationService.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAApwE0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T01:51:23.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceTwoIntegrationService.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Infra\\ExternalService\\ServiceTwoIntegrationService.cs",
+              "RelativeDocumentMoniker": "ExternalServiceApi.Infra\\ExternalService\\ServiceTwoIntegrationService.cs",
+              "ToolTip": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Infra\\ExternalService\\ServiceTwoIntegrationService.cs",
+              "RelativeToolTip": "ExternalServiceApi.Infra\\ExternalService\\ServiceTwoIntegrationService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAASwA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T22:06:46.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Core\\Service\\RegisterService.cs",
+              "RelativeDocumentMoniker": "ExternalServiceApi.Core\\Service\\RegisterService.cs",
+              "ToolTip": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Core\\Service\\RegisterService.cs",
+              "RelativeToolTip": "ExternalServiceApi.Core\\Service\\RegisterService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAD4vw0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:24:56.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Web.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ExternalServiceApi.Web.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Web.Api\\Program.cs",
+              "RelativeToolTip": "ExternalServiceApi.Web.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:53:40.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Web.Api\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "ExternalServiceApi.Web.Api\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Web.Api\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "ExternalServiceApi.Web.Api\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwE8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:55:52.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IServiceTwoIntegrationService.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Core\\Contracts\\IServiceTwoIntegrationService.cs",
+              "RelativeDocumentMoniker": "ExternalServiceApi.Core\\Contracts\\IServiceTwoIntegrationService.cs",
+              "ToolTip": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Core\\Contracts\\IServiceTwoIntegrationService.cs",
+              "RelativeToolTip": "ExternalServiceApi.Core\\Contracts\\IServiceTwoIntegrationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T22:03:28.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExternalServiceApi.Infra.csproj",
+              "DocumentMoniker": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Infra\\ExternalServiceApi.Infra.csproj",
+              "RelativeDocumentMoniker": "ExternalServiceApi.Infra\\ExternalServiceApi.Infra.csproj",
+              "ToolTip": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Infra\\ExternalServiceApi.Infra.csproj",
+              "RelativeToolTip": "ExternalServiceApi.Infra\\ExternalServiceApi.Infra.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-27T22:02:31.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Infra\\Data\\UserDataRepository.cs",
+              "RelativeDocumentMoniker": "ExternalServiceApi.Infra\\Data\\UserDataRepository.cs",
+              "ToolTip": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Infra\\Data\\UserDataRepository.cs",
+              "RelativeToolTip": "ExternalServiceApi.Infra\\Data\\UserDataRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:25:44.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Core\\Contracts\\IRegisterService.cs",
+              "RelativeDocumentMoniker": "ExternalServiceApi.Core\\Contracts\\IRegisterService.cs",
+              "ToolTip": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Core\\Contracts\\IRegisterService.cs",
+              "RelativeToolTip": "ExternalServiceApi.Core\\Contracts\\IRegisterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T04:13:34.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuariosParceiro.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Core\\Entities\\UsuariosParceiro.cs",
+              "RelativeDocumentMoniker": "ExternalServiceApi.Core\\Entities\\UsuariosParceiro.cs",
+              "ToolTip": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Core\\Entities\\UsuariosParceiro.cs",
+              "RelativeToolTip": "ExternalServiceApi.Core\\Entities\\UsuariosParceiro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:16:04.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Core\\Contracts\\IRepository.cs",
+              "RelativeDocumentMoniker": "ExternalServiceApi.Core\\Contracts\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Danilo\\OneDrive\\Imagens\\Documentos\\Mentoria\\DesafiosTecnicos\\SignUp\\RegisterApi\\ExternalServiceApi\\ExternalServiceApi.Core\\Contracts\\IRepository.cs",
+              "RelativeToolTip": "ExternalServiceApi.Core\\Contracts\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:13:29.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
